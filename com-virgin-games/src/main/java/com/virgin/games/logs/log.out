@@ -1,0 +1,8 @@
+2023-08-18 17:08:783 INFO  HomePage :35 - Verify liveCasino text is displayed : [[FirefoxDriver: firefox on WINDOWS (bbb009bd-63d5-42ea-a629-2818b3eb35e5)] -> xpath: //span[contains(text(),'Live Casino')]]
+2023-08-18 17:08:05 INFO  HomePage :30 - Verify cleopatra text is displayed : [[FirefoxDriver: firefox on WINDOWS (59b89185-6d49-410c-802f-9e25556fca2f)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 17:08:96 INFO  HomePage :35 - Verify liveCasino text is displayed : [[FirefoxDriver: firefox on WINDOWS (40310ac7-954f-487f-a233-22dfdb80f3d6)] -> xpath: //span[contains(text(),'Live Casino')]]
+2023-08-18 17:08:239 INFO  HomePage :30 - Verify cleopatra text is displayed : [[FirefoxDriver: firefox on WINDOWS (e537087b-fa72-4fc7-96ca-1931274cc10d)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 17:08:26 INFO  HomePage :35 - Verify liveCasino text is displayed : [[FirefoxDriver: firefox on WINDOWS (085c8e10-54a9-44ea-a6c1-ed21d6decf4d)] -> xpath: //span[contains(text(),'Live Casino')]]
+2023-08-18 17:08:775 INFO  HomePage :30 - Verify cleopatra text is displayed : [[FirefoxDriver: firefox on WINDOWS (232148ea-3f1f-4820-a729-69bf02a092c3)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-08-18 19:08:842 INFO  ManageBrowser :30 - Launching Chrome Browser
+2023-08-18 19:08:726 INFO  ManageBrowser :30 - Launching Chrome Browser
